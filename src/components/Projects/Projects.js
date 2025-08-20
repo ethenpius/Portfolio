@@ -51,7 +51,7 @@ It works as a single endpoint for as many as you want falco instances."
               title="steganography-stegohunter"
               description="About
 A steganography-based website to encrypt messages within photos. Keep your secret message and authorize it with your password and reveal the secret message by decrypting the photo with a password."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
+              ghLink="https://github.com/ethenpius/Steganography-Stegohunter"
               demoLink="https://steganography-stegohunter.vercel.app/"
               demoLabel="Demo"
             />

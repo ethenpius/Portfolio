@@ -115,7 +115,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/ethenpius/My-DeveloperPortfolio-Master"
+                href="https://github.com/ethenpius/Steganography-Stegohunter"
                 target="_blank"
                 className="fork-btn-inner"
               >
